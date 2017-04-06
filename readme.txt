@@ -1,0 +1,3 @@
+开发基于Python的智能卡工具
+解决功能繁杂的SmartTest工具外发不便，兼容SmartTest脚本
+
